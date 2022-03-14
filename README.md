@@ -1,4 +1,35 @@
-### Hi there 👋
+### Hello there 👋 
+
+<p align="center">
+<a href="https://fr.linkedin.com/in/cl%C3%A9ment-reiffers-bb8983185"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+</p>
+
+## About Me 
+-   I'm actually in an engineering school in France 🇫🇷
+-   I specialize in Artificial Intelligence 
+-   I love sciences and computer science and I spend my free time to learn how works things
+-   How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-ClementReiffers-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/cl%C3%A9ment-reiffers-bb8983185)
+
+## Git Stats 
+![clementreiffers's GitHub stats](https://github-readme-stats.vercel.app/api?username=clementreiffers&show_icons=true&count_private=true&theme=chartreuse-dark)
+
+
+## Programming Languages 💻
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&hide=Objective-C,M4&layout=compact&theme=chartreuse-dark)](https://github.com/Im-Rises/github-readme-stats)
+
+
+## Currently Learning 🌱
+
+-   AI
+-   Python
+-   Js
+-   MatLab
+
+## Contact Me 📫
+
+-   Mail : clement.reiffers@esme.fr
+-   Linkedin : [![Linkedin Badge](https://img.shields.io/badge/-ClementReiffers-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/cl%C3%A9ment-reiffers-bb8983185)
 
 <!--
 **clementreiffers/clementreiffers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
