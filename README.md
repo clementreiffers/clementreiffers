@@ -26,6 +26,11 @@
 -   Js
 -   MatLab
 
+## Currently Working 🔭
+
+- <a href="https://github.com/clementreiffers/AIEmotionRecognition/tree/main"> AI to recognize emotion from human </a>
+- <a href="https://github.com/clementreiffers/MazeCreator"> Maze Creator (I'm thinking about a method to find a method to resolve it by AI) </a>
+
 ## Contact Me 📫
 
 -   Mail : clement.reiffers@esme.fr
