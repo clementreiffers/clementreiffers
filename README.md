@@ -7,7 +7,7 @@
 ## About Me 
 -   I'm actually in an engineering school in France 🇫🇷
 -   I specialize in Artificial Intelligence 
--   I love sciences and computer science and I spend my free time to learn how works things
+-   I love sciences and computer science and I spend my free time to learn how things work
 -   How to reach me : [![Linkedin Badge](https://img.shields.io/badge/-ClementReiffers-blue?style=flat&logo=Linkedin&logoColor=white)](https://fr.linkedin.com/in/cl%C3%A9ment-reiffers-bb8983185)
 
 ## Git Stats 
