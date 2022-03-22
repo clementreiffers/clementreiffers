@@ -16,7 +16,7 @@
 
 ## Programming Languages 💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&hide=Objective-C,M4&layout=compact&theme=chartreuse-dark)](https://github.com/Im-Rises/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&hide=Objective-C,M4&layout=compact&theme=chartreuse-dark)](https://github.com/clementreiffers/github-readme-stats)
 
 
 ## Currently Learning 🌱
