@@ -31,6 +31,8 @@
 - <a href="https://github.com/clementreiffers/AIEmotionRecognition/tree/main"> AI to recognize emotion from human </a>
 - <a href="https://github.com/clementreiffers/MazeCreator"> Maze Creator (I'm thinking about a method to find a method to resolve it by AI) </a>
 
+- <a href="https://github.com/clementreiffers/HotelScraping"> HotelScraping. This project scraps datas from famous hostel booking websites, and uses them to help all customers to find easier their hostel (corresponding to their specifications).</a> I'm coding it with <a href='https://github.com/Im-Rises/'>Im-Rises</a>, <a href='https://github.com/maaelle/'>maaelle</a>, <a href='https://github.com/meatisdelicious/'>meatisdelicious</a>
+
 ## Contact Me 📫
 
 -   Mail : clement.reiffers@esme.fr
