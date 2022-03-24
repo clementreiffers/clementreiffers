@@ -29,6 +29,7 @@
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white">
     <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
 </p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&hide=Objective-C,M4&layout=compact&theme=chartreuse-dark)](https://github.com/clementreiffers?tab=repositories)
 
 ### Most used langages 
 <p align='center'>
