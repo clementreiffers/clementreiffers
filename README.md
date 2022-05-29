@@ -74,7 +74,6 @@
 
 - <a href="https://github.com/clementreiffers/MazeCreator"> Maze Creator (I'm thinking about a method to find a method to resolve it by AI) </a>
 
-- <a href="https://github.com/clementreiffers/travelling-salesman-problem">travelling-salesman-problem</a> : we use a genetic algorithm to solve the problem, i work with <a href='https://github.com/Im-Rises/'>Im-Rises</a> to code it.
 
 ## Contact Me 📫
 
