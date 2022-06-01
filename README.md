@@ -62,6 +62,8 @@
 ## Currently Learning 🌱
 
 -   AI
+-   DeepLearning
+-   MachineLearning
 -   Python
 -   Js
 -   MatLab
@@ -73,6 +75,8 @@
 - <a href="https://github.com/clementreiffers/AIEmotionRecognition/tree/main"> AI to recognize emotion from human </a>
 
 - <a href="https://github.com/clementreiffers/MazeCreator"> Maze Creator (I'm thinking about a method to find a method to resolve it by AI) </a>
+
+- <a href="https://github.com/clementreiffers/pong-game.git">a pong game using sfml and c++</a>
 
 
 ## Contact Me 📫
