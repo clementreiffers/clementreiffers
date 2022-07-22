@@ -35,7 +35,7 @@
 ### Most used langages 
 <p align='center'>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&hide=Objective-C,M4&layout=compact&theme=chartreuse-dark)](https://github.com/clementreiffers?tab=repositories)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&hide=Objective-C,M4,CMake&layout=compact&theme=chartreuse-dark)](https://github.com/clementreiffers?tab=repositories)
 
 </p>
 
