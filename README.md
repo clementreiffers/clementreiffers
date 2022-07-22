@@ -72,11 +72,7 @@
 
 ## Currently Working 🔭
 
-- <a href="https://github.com/clementreiffers/AIEmotionRecognition/tree/main"> AI to recognize emotion from human </a>
-
-- <a href="https://github.com/clementreiffers/MazeCreator"> Maze Creator (I'm thinking about a method to find a method to resolve it by AI) </a>
-
-- <a href="https://github.com/clementreiffers/pong-game.git">a pong game using sfml and c++</a>
+- <a href="https://github.com/clementreiffers/tic-tac-toe-ai">an AI able to beat everyone at TicTacToe (Morpions in French) based on MachineLearning</a>
 
 
 ## Contact Me 📫
