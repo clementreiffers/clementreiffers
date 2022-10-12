@@ -11,7 +11,7 @@ I'm a student at ESME School in France, and I try to create AI and make demonstr
 * ✉️  You can contact me at [clement.reiffers@esme.fr](mailto:clement.reiffers@esme.fr)
 * 🚀  I'm currently working on [Emotion Recognition](http://clementreiffers.github.io/emotion-recognition-website-react/)
 * 🧠  I'm learning Artificial Intelligence, React, TypeScript
-* 🤝  I'm open to collaborating on enverything
+* 🤝  I'm open to collaborate on enverything
 * ⚡  I can make cupcakes that everyone could die to eat (that's wrong)
 
 <a href="https://www.github.com/clementreiffers" target="_blank" rel="noreferrer"><img
