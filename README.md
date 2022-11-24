@@ -54,4 +54,4 @@ src="https://img.shields.io/github/followers/clementreiffers?logo=github&style=f
 
 <a href="https://github.com/clementreiffers" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-Visitor count: <img src="https://camo.githubusercontent.com/142f24b8d55478cbb4edd4bd3b14f7097853932ab2a2364bac5cd822e3aaa4a2/68747470733a2f2f70726f66696c652d636f756e7465722e676c697463682e6d652f6461776565646b6f622f636f756e742e737667"/>
+Visitor count: ![](https://komarev.com/ghpvc/?username=clementreiffers)
