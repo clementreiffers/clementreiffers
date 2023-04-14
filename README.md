@@ -52,6 +52,6 @@ src="https://img.shields.io/github/followers/clementreiffers?logo=github&style=f
 
 <a href="http://www.github.com/clementreiffers"><img src="https://activity-graph.herokuapp.com/graph?username=clementreiffers&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-<a href="https://github.com/clementreiffers" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<a href="https://github.com/clementreiffers" align="left"><img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=clementreiffers&langs_count=10&hide=Objective-C,html,css,assembly,scss,hlsl,jupyter%20notebook,shaderlab&layout=compact&hide_border=true&theme=tokyonight)" alt="Top Languages" /></a>
 
 Visitor count: ![](https://komarev.com/ghpvc/?username=clementreiffers)
