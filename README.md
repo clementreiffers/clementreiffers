@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Cloudflare Workers](https://github.com/clementreiffers/worker-api)
 
-- 🌱 I’m currently learning **Kubernetes, DevOps tools, AI and much programming language!**
+- 🌱 I’m currently learning **Kubernetes, DevOps tools, AI and much programming languages!**
 
 - 💬 Ask me about **Any projects you want to start !**
 
