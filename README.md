@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clementreiffers&label=Profile%20views&color=0e75b6&style=flat" alt="clementreiffers" /> </p>
 
-- 🔭 I’m currently working on [Cloudflare Workers](https://github.com/clementreiffers/worker-api)
+- 🔭 I’m currently working on [Cloudflare Workers](https://clementreiffers.github.io/octo-workers-docs/)
 
 - 🌱 I’m currently learning **Kubernetes, DevOps tools, AI and much programming languages!**
 
