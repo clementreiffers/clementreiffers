@@ -1,9 +1,10 @@
 <h1 align="center">Hi <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" />, I'm Clément Reiffers !</h1>
 <h3 align="center">A guy who got married to his keyboard</h3>
 
-<img src="devcard.svg" width="300"/>
+<img src="devcard.svg" width="300" align="right"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clementreiffers&label=Profile%20views&color=0e75b6&style=flat" alt="clementreiffers" /> </p>
+<div align="left">
+<p> <img src="https://komarev.com/ghpvc/?username=clementreiffers&label=Profile%20views&color=0e75b6&style=flat" alt="clementreiffers" /> </p>
 
 - 🔭 I’m currently working on [Cloudflare Workers](https://clementreiffers.github.io/octo-workers-docs/)
 
@@ -12,7 +13,7 @@
 - 💬 Ask me about **Any projects you want to start !**
 
 - 📫 How to reach me **reiffersclement@gmail.com**
-
+</div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/cl%C3%A9ment-reiffers-bb8983185" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="clementreiffers" height="30" width="40" /></a>
