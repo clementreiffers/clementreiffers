@@ -6,13 +6,13 @@
 <div align="left">
 <p> <img src="https://komarev.com/ghpvc/?username=clementreiffers&label=Profile%20views&color=0e75b6&style=flat" alt="clementreiffers" /> </p>
 
-- 🔭 I’m currently working on [Cloudflare Workers](https://clementreiffers.github.io/octo-workers-docs/)
+- 🔭 I’m currently working on [Cloudflare Workers](https://clementreiffers.github.io/fireworkers-docs/)
 
-- 🌱 I’m currently learning **Kubernetes, DevOps tools, AI and much programming languages!**
+- 🌱 I’m currently learning **AWS, Kubernetes, DevOps tools, AI and much programming languages!**
 
 - 💬 Ask me about **Any projects you want to start !**
 
-- 📫 How to reach me **reiffersclement@gmail.com**
+- 📫 How to reach me **clement.reiffers@outlook.fr**
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
