@@ -6,7 +6,7 @@
 <div align="left">
 <p> <img src="https://komarev.com/ghpvc/?username=clementreiffers&label=Profile%20views&color=0e75b6&style=flat" alt="clementreiffers" /> </p>
 
-- 🔭 I’m currently working on [Cloudflare Workers](https://clementreiffers.github.io/fireworkers-docs/)
+- 🔭 I’m currently studying [WebAssembly](https://webassembly.org/) for cloud architecture
 
 - 🌱 I’m currently learning **AWS, Kubernetes, DevOps tools, AI and much programming languages!**
 
